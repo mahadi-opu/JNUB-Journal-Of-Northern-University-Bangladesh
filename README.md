@@ -7,11 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About JNUB-Journal of Northern University Bangladesh
+## About JNUB-Journal of Northern University Bangladesh.
 
 The JNUB-Journal of Northern University Bangladesh is an online journal platform aimed at promoting research and scholarly work within the academic community of Northern University Bangladesh (JNUB). The project will be developed using Laravel, a popular PHP framework known for its robustness and flexibility in building web applications .
-
-The primary objective of the JNUB-Journal is to provide a platform for researchers, faculty members, and students to publish their original research papers, articles, and case studies. It will serve as a knowledge repository and foster intellectual exchange within the university.
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
@@ -24,7 +22,9 @@ The primary objective of the JNUB-Journal is to provide a platform for researche
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Key Features
+## JNUB Key Features:
+
+The primary objective of the JNUB-Journal is to provide a platform for researchers, faculty members, and students to publish their original research papers, articles, and case studies. It will serve as a knowledge repository and foster intellectual exchange within the university.
 
 1. User Registration and Authentication: The system will allow researchers, faculty members, and students to create accounts, login, and manage their profiles. Authentication mechanisms will ensure secure access to the journal platform.
 
