@@ -2,6 +2,12 @@
 
 use Illuminate\Support\Facades\Route;
 
+
+// Admin
+use App\Http\Controllers\Admin\AdminController;
+
+
+// Frontend
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +19,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+// Frontend Route
 Route::get('/', function () {
     return view('welcome');
 });
@@ -20,3 +29,6 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+// Admin Routes
+Route::get('admin/dashbord', [AdminController::class, 'dashBord'])->name('admin.dashbord');

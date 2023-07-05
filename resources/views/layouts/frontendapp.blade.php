@@ -77,8 +77,8 @@
               </button>
 
               <div class="collapse navbar-collapse d-lg-flex" id="navbarsExample11">
-                <a class="navbar-brand col-lg-3 me-0" href="#"> <img src="{{ asset('frontend_assets/img/jnub-logo.png') }} " alt=""></a>
-                <ul class="navbar-nav col-lg-7 justify-content-end">
+                <a class="col-lg-3 col-md-3 col-sm-12 navbar-brand  me-0" href="#"> <img src="{{ asset('frontend_assets/img/jnub-logo.png') }} " alt=""></a>
+                <ul class=" col-lg-7 col-md-7 col-sm-12 navbar-nav justify-content-end">
                   <li class="nav-item">
                     <a class="nav-link active fw-semibold" aria-current="page" href="#">Home</a>
                   </li>
@@ -105,14 +105,15 @@
                     </ul>
                   </li>
                 </ul>
-                <div class="d-lg-flex col-lg-2 justify-content-evenly">
-                  <button class="btn btn-outline-dark rounded-0 ms-3">Sign in </button>
-                  <a class="p-2">  <i class="fa-solid fa-magnifying-glass"></i>  </a>
+                <div class="col-lg-2 col-md-2 col-sm-12">
+                    <div class="d-flex justify-content-around align-items-center">
+                        <button class="btn btn-outline-dark rounded-0">Sign in </button>
+                        <span><i class="fa-solid fa-magnifying-glass"></i> </span>
+                    </div>
                 </div>
               </div>
             </div>
         </nav>
-
     </section>
     <!-- Header Main section Start -->
 </header>
@@ -206,13 +207,13 @@
 		<!-- Footer section -->
 	<footer class="footer-section">
 		<div class="container">
-            <div class="row navbar">
-                <div class="col-lg-6">
-                    <div class="logo">
+            <div class="row align-items-center">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="logo text-lg-start text-md-start">
                         <img src="{{ asset('frontend_assets/img/jnub-logo-white.png') }}" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="footer-menu">
                         <ul class="nav justify-content-end text-white">
                             <li class="nav-item">
@@ -256,6 +257,20 @@
             infinite: true,
             dots: false,
             slidesToShow: 4,
+            slidesToScroll: 1,
+            arrows:false,
+            autoplay: true,
+            autoplaySpeed: 3000,
+          });
+        });
+      </script>
+
+       <script type="text/javascript">
+        $(document).ready(function(){
+          $('.slider2').slick({
+            infinite: true,
+            dots: false,
+            slidesToShow: 3,
             slidesToScroll: 1,
             arrows:false,
             autoplay: true,

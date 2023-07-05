@@ -233,8 +233,15 @@ ol {
 ---------------------*/
 .header_top{
     background-color: var(--primary-color);
+    font-family: 'Inter', sans-serif;
 }
-
+.nav-link{
+    font-size: 16px !important;
+    font-weight: 500;
+    line-height: normal;
+    font-family: 'Inter', sans-serif;
+    color: var(--black-color);
+}
 
 
 /*------------------
@@ -299,7 +306,7 @@ ol {
     padding: 50px 0px;
 }
 .feature_border{
-    border-right: 1px solid #000;
+    border-right: 2px solid var(--primary-color);
 }
 .featured-item i{
     font-size: 30px;
@@ -321,19 +328,25 @@ ol {
     font-weight: 400;
     line-height: 22px;
 }
-
-
 /*------------------
   Category Section
 ---------------------*/
 .category-section{
     padding: 50px 0px;
 }
-.category_item{
+.category_item {
     background-color: var(--primary-color);
+    height: 170px;
+    width: 100%;
+    display: flex;
+    align-items: center;
 }
 .category_item h3{
     color: var(--secondary-color);
+    font-size: 25px;
+    font-weight: 500;
+    line-height: normal;
+    font-family: 'Inter', sans-serif;
 }
 
 /*------------------
@@ -342,58 +355,66 @@ ol {
 .populer-section{
     padding: 50px 0px;
 }
-.populer_item{
+.research__card{
     border: 2px solid #2B2D60;
-    padding: 15px;
     position: relative;
     z-index: 1;
 }
-.populer_item_subject {
-
-}
-.populer_item .populer_item_subject p {
-    font-size: 16px;
+.research__topic p {
+    font-size: 1rem;
     font-weight: 400;
     font-family: 'Inter', sans-serif;
     background-color: var(--primary-color);
     position: relative;
     z-index: 5;
-    margin-left: -15px;
+    margin-left: -20px;
+    /* padding: 10px 40px; */
 }
-.populer_item span i{
-    font-size: 30px;
+.research__card span i{
+    font-size: 2rem;
     font-weight: 700;
-    padding-right: 15px;
     color: var(--primary-color);
 }
-.populer_title h3{
-    font-size: 25px;
+.research__title h3{
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 30px;
     color: var(--primary-color);
     font-family: 'Inter', sans-serif;
 }
-.populer_item .review i{
-    font-size: 16px;
+
+.research__review i{
+    font-size: 1rem;
     color: rgb(237, 193, 16);
 }
-.populer_item .author{
-    font-family: Inter;
-    font-size: 18px;
+.research__author{
+    font-size: 1rem;
     font-weight: 400;
-    line-height: 22px;
+    line-height: 1.5rem;
     color: var(--black-color);
     font-family: 'Inter', sans-serif;
 }
-.publish_date p{
+.research__publishdate p{
     font-family: 'Inter', sans-serif;
-    font-size: 12px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 15px;
     color: #4EB50B;
-
-
 }
+.research__details{
+    text-align: end;
+}
+.research__details a{
+    font-size: 1rem;
+    font-weight: 400;
+}
+/*------------------
+  Recent-section
+---------------------*/
+.recent-section{
+    padding: 50px 0px;
+}
+
 /*------------------
   Blog section
 ---------------------*/
