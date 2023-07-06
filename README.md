@@ -1,24 +1,44 @@
-<p align="center"><a href="#" target="_blank"><img src="./public/images/logo/jnub-logo-white.png" width="auto" height="auto" alt="JNUB Logo"></a></p>
+<p align=""><a href="#" target="_blank"><img src="https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/ccdeeba7-9b0a-45aa-9a8d-572a105e3d1e" width="150" height="auto" style="object-fit: contain;" alt="JNUB Logo"></a></p> 
+<h2 align=""><a href="#" target="_blank"> JNUB-Journal of Northern University Bangladesh. </a></h2>
+<p align=""><a href="#" target="_blank"> The JNUB-Journal of Northern University Bangladesh is an online journal platform aimed at promoting research and scholarly work within the academic community of Northern University Bangladesh (JNUB). The project will be developed using Laravel, a popular PHP framework known for its robustness and flexibility in building web applications .
+</a></p> 
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About JNUB-Journal of Northern University Bangladesh.
-
-The JNUB-Journal of Northern University Bangladesh is an online journal platform aimed at promoting research and scholarly work within the academic community of Northern University Bangladesh (JNUB). The project will be developed using Laravel, a popular PHP framework known for its robustness and flexibility in building web applications .
+Please check branches for Latest **Frontend, Backend & Rest Api** Code.
+## Full Stack Research Paper Publising Website (JNUB)
+This is Our University Full Stack Research Paper Publising Website created using PHP, Laravel, my SQL, Tailwind, Mongo Db, Material UI etc.
 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Frontend
+I created my personal portfolio frontend using React, Tailwind etc.
+
+[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
+
+![JNUB FrontEnd Thanmnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/6f9c595c-b0eb-4ebf-aaa8-1854a132ab90)
+
+
+
+## Backend
+I customized a react admin dashboard called minimal and integrate backend functionaliy & rest api.
+
+[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
+
+![JNUB Backend Thambnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/0d99a86d-d2b6-424a-8872-16644cbdc86a)
+
+
+## Restapi
+
+I created my personal portfolio rest api using Node, Express, Mongo Db.
+
+[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
+
+<img src="https://user-images.githubusercontent.com/71124853/187373613-4e093a1b-4a3f-412e-a411-f6044b42cd02.png">
+
+## TODO
+- [x] Create Personal Portfolio Frontend Using React Js
+- [x] Create Personal Portfolio Backend
+- [x] Create Personal Portfolio Rest Api using Node Js, Express Js, Mongo Db.
+
+- [ ] Create Personal Portfolio Frontend **Using NEXT JS**
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
@@ -42,29 +62,11 @@ The primary objective of the JNUB-Journal is to provide a platform for researche
 
 The JNUB-Journal of Northern University Bangladesh project will contribute to the academic community by providing a platform for knowledge dissemination and fostering collaboration among researchers, faculty members, and students. By leveraging Laravel technology, the project aims to deliver a user-friendly, efficient, and secure online journal platform for the Northern University Bangladesh community.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Journal of NUB The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
 

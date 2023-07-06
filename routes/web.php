@@ -30,5 +30,8 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+
+
+
 // Admin Routes
-Route::get('admin/dashbord', [AdminController::class, 'dashBord'])->name('admin.dashbord');
+Route::get('admin/dashbord', [AdminController::class, 'adminDashbord'])->name('admin.dashbord');

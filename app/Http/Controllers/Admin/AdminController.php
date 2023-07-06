@@ -12,7 +12,7 @@ class AdminController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function dashBord()
+    public function adminDashbord()
     {
         return view('adminPanel.dashbord');
     }
