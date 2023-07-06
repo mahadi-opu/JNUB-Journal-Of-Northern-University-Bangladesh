@@ -1,7 +1,7 @@
 <p align=""><a href="#" target="_blank"><img src="https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/ccdeeba7-9b0a-45aa-9a8d-572a105e3d1e" width="150" height="auto" style="object-fit: contain;" alt="JNUB Logo"></a></p> 
-<h2 align=""><a href="#" target="_blank"> JNUB-Journal of Northern University Bangladesh. </a></h2>
-<p align=""><a href="#" target="_blank"> The JNUB-Journal of Northern University Bangladesh is an online journal platform aimed at promoting research and scholarly work within the academic community of Northern University Bangladesh (JNUB). The project will be developed using Laravel, a popular PHP framework known for its robustness and flexibility in building web applications .
-</a></p> 
+<h2 align=""> JNUB-Journal of Northern University Bangladesh.  </h2>
+<p align="">The JNUB-Journal of Northern University Bangladesh is an online journal platform aimed at promoting research and scholarly work within the academic community of Northern University Bangladesh (JNUB). The project will be developed using Laravel, a popular PHP framework known for its robustness and flexibility in building web applications .
+</p> 
 
 Please check branches for Latest **Frontend, Backend & Rest Api** Code.
 ## Full Stack Research Paper Publising Website (JNUB)
