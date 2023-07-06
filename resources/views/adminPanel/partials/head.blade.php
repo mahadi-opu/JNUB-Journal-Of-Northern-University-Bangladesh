@@ -15,7 +15,8 @@
     <!-- End fonts -->
 
     <!-- core:css -->
-    <link rel="stylesheet" href="{{ asset('assets/adminPanel/vendors/core/core.css') }}">
+    <link rel="stylesheet" href="{{ asset('adminpanel_assets/assets/vendors/core/core.css') }}">
+    <link rel="stylesheet" href="{{ asset('adminpanel_assets/assets/css/custom.css') }}">
     <!-- endinject -->
 
     <!-- Plugin css for this page -->

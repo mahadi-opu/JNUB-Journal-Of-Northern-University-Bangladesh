@@ -23,15 +23,19 @@ use App\Http\Controllers\Admin\AdminController;
 
 // Frontend Route
 Route::get('/', function () {
+    return view('frontend.home');
+});
+
+Route::get('/welcome', function () {
     return view('welcome');
 });
 
+
+// Authentication Route
 Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
 
 
 
 // Admin Routes
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('admin/dashbord', [AdminController::class, 'adminDashbord'])->name('admin.dashbord');
