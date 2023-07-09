@@ -13,7 +13,7 @@ I created my personal portfolio frontend using React, Tailwind etc.
 
 [Live Preview](#) &nbsp; &nbsp; [Code Link](#)
 
-![JNUB FrontEnd Thanmnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/6f9c595c-b0eb-4ebf-aaa8-1854a132ab90)
+![JNUB FrontEnd Thanmnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/2677ac1d-3cf3-476c-9ead-94bd27dc480f)
 
 
 
@@ -22,7 +22,7 @@ I customized a react admin dashboard called minimal and integrate backend functi
 
 [Live Preview](#) &nbsp; &nbsp; [Code Link](#)
 
-![JNUB Backend Thambnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/0d99a86d-d2b6-424a-8872-16644cbdc86a)
+![JNUB Backend Thambnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/dcba4c2e-e380-41a9-b36e-a6b3154ef89a)
 
 
 ## Restapi
