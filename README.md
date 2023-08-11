@@ -27,14 +27,6 @@ I customized a react admin dashboard called minimal and integrate backend functi
 ![JNUB Backend Thambnail](https://github.com/mahadi-opu/JNUB-Journal-Of-Northern-University-Bangladesh/assets/76869065/dcba4c2e-e380-41a9-b36e-a6b3154ef89a)
 
 
-## Restapi
-
-I created my personal portfolio rest api using Node, Express, Mongo Db.
-
-[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
-
-<img src="https://user-images.githubusercontent.com/71124853/187373613-4e093a1b-4a3f-412e-a411-f6044b42cd02.png">
-
 ## TODO
 - [x] Create Personal Portfolio Frontend Using React Js
 - [x] Create Personal Portfolio Backend
